@@ -3,7 +3,7 @@ title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Kaldi? or who not?
   text: >-
     Kaldi is the coffee store which is amazing for everyone who believes that
     great coffee shouldn't just taste good, it should do good too. We source all
